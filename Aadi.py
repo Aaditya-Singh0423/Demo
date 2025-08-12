@@ -10,3 +10,4 @@ print(f-e)
 x=50
 y=10
 print(x/y)
+print("mai master hu me side me nahi dikhuga")
